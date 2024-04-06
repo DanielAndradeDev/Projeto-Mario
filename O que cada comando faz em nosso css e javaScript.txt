@@ -1,0 +1,40 @@
+para que serve o *{ ? = /* o * define todos os seus comandos  */
+
+    /* AQUI ESTAMOS INCIANDO O JOGO */
+
+
+para que serve o game board ? = /* nosso game board é nosso quadrado de fundo   */
+
+para que serve o position: relative; ? = * o relativo vai obdecer absoluto *
+
+para que serve o hidden; ? =     /* o hidden é esconder deixar invisivel tudo que for executado vai ser executado dentro do quadrado */
+
+para que serve o position: absolute; ? = /* o absolute vai ser o que sempre ficara em principal no caso o relativo vai sempre obedecer ele  */ 
+
+para que serve @keyframes pipe-animation ? = /* Nosso KeyFrames é usado para definir nossas animaçoes */ 
+
+
+NO JAVA SCRIPT ......................................
+
+criamos uma variel classe mario = const mario no caso 
+
+const loop serve para o que ? = O loop ele deixara nosso mario pulando em infinito 
+
+
+
+                              Estudar para prova
+
+Parsent: quando vc for converter algo vc usa parseInt() ex : vc transforma um valor a outro de acordo com que vc colocar no seu (ParseInt)
+
+QUando vc usar A===a ele vai entender que e diferente 
+quando vc usa A==a ele vai entender que os dois sao iguais 
+
+Valores logicos :
+OU - um dos valores tem que ser verdadeiro
+
+&& - os dois valores tem que ser verdadeiro 
+
+quando eu quero que o valor seja falso utilizamos o (!)
+
+conctenar - vc juntar dois valores e tornar um só 
+
